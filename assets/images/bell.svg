@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 31.25" x="0px" y="0px">
+    <title>Notification</title>
+    <g data-name="Alert Line Expand">
+        <path
+            d="M18.5,20H6.5A1.5,1.5,0,0,1,5,18.49v-7A7.49,7.49,0,0,1,16,4.85l-.46.88a6.61,6.61,0,0,0-3-.74A6.51,6.51,0,0,0,6,11.49v7a.5.5,0,0,0,.5.5h12a.5.5,0,0,0,.5-.5v-7a6.58,6.58,0,0,0-.74-3L19.14,8A7.57,7.57,0,0,1,20,11.49v7A1.5,1.5,0,0,1,18.5,20Z" />
+        <path d="M12.5,23a2.5,2.5,0,0,1-2.5-2.5h1a1.5,1.5,0,0,0,3,0h1A2.5,2.5,0,0,1,12.5,23Z" />
+        <rect x="12" y="1.99" width="1" height="2" />
+        <path
+            d="M17.5,9A2.5,2.5,0,1,1,20,6.5,2.5,2.5,0,0,1,17.5,9Zm0-4A1.5,1.5,0,1,0,19,6.5,1.5,1.5,0,0,0,17.5,5Z" />
+    </g>
+    <text x="0" y="40" fill="#000000" font-size="5px" font-weight="bold"
+        font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif">Created by M
+        Yudi Maulana</text>
+    <text x="0" y="45" fill="#000000" font-size="5px" font-weight="bold"
+        font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif">from the Noun
+        Project</text>
+</svg>
